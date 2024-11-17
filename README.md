@@ -3,12 +3,11 @@
 
 > Disclaimer :- This Tool is For Educational Purposes . Developer Is Not Responsible For Your Action . 
 
-Termux & Linux Installation Commands
-'''
-apt update -y
-apt upgrade -y
-pkg install git 
-pkg install python
-git clone https://github.com/ajaxblackhat/vehicle-osint
-cd vehicle-osint
-'''
+### Installation Commands : 
+        apt update -y
+        apt upgrade -y
+        pkg install git 
+        pkg install python
+        git clone https://github.com/ajaxblackhat/vehicle-osint
+        cd vehicle-osint
+
